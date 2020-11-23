@@ -12,7 +12,7 @@ I'm professional fanatic of Statistics, new technologies, ML / development. Pass
 - 💬 Ask me about: Statistical modeling, Math, Machine learning, Databases
 - 📫 How to reach me: ojlaytong@unal.edu.co
 - ⚡ Fun fact: The only impossible thing is what you don't try.
-**Hobbies :** Articles & Music :headphones:
+- Hobbies : Articles & Music :headphones:
 
 
 <!--
