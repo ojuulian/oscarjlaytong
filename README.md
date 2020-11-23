@@ -1,5 +1,5 @@
 ## ¡This is Oscar Layton!
-#### Licenced in mathematics and Statistics. 🎓
+#### Statistics and Licenced in mathematics. 🎓
 #### * ¡I am currently looking for data scientist positions! *
 
 
@@ -12,7 +12,7 @@ I'm professional fanatic of Statistics, new technologies, ML / development. Pass
 - 💬 Ask me about: Statistical modeling, Math, Machine learning, Databases
 - 📫 How to reach me: ojlaytong@unal.edu.co
 - ⚡ Fun fact: The only impossible thing is what you don't try.
-
+**Hobbies :** Articles & Music :headphones:
 
 
 <!--
