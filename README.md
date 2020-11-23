@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am O.J Layton, a professional fanatic of Statistics, new technologies, ML / development. Passionate about autonomous learning and with the conviction of meeting the proposed goals.
+
 - 🌱 I’m currently learning Spark, Scala and Flash software development.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: Statistical modeling, Math, Machine learning, Databases
